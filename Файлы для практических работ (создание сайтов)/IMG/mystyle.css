@@ -1,0 +1,17 @@
+body
+{
+	background-image: url(images/back.jpg);
+	color: #dbdbdb;
+}
+
+span.name
+{
+	font-weight: bold;
+	font-style: italic;
+	color: #82d6bf;
+}
+
+div.img_container
+{
+	margin: 5px;
+}
